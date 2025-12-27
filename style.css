@@ -73,3 +73,39 @@ footer {
   padding: 15px;
   font-size: 14px;
 }
+<section>
+  <h2>Privacy Policy & Tax Disclaimer</h2>
+
+  <p>
+    <strong>Privacy Policy:</strong><br>
+    Exquisite Essentials Tax Prep respects your privacy and is committed to
+    protecting your personal information. We collect only the information
+    necessary to provide tax preparation and related services.
+  </p>
+
+  <p>
+    Personal information shared through phone, email, or in person is used
+    solely for service-related purposes. We do not sell, rent, or share
+    client information with third parties except as required by law or
+    necessary to complete tax filings.
+  </p>
+
+  <p>
+    Clients are encouraged not to send sensitive information such as Social
+    Security numbers or financial documents through unsecured email or
+    contact forms.
+  </p>
+
+  <p>
+    <strong>Tax Disclaimer:</strong><br>
+    Exquisite Essentials Tax Prep provides tax preparation and general tax
+    information services. We do not provide legal advice. Tax outcomes may
+    vary based on individual circumstances and the accuracy of information
+    provided by the client.
+  </p>
+
+  <p>
+    By using this website or engaging our services, you acknowledge and agree
+    to these terms.
+  </p>
+</section>
